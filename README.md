@@ -9,7 +9,7 @@
   <img alt="GitHub star" src="https://img.shields.io/github/stars/EliaFantini/Portfolio?style=social">
 </p>
 
-This repository contains the code used to create my personal portfolio website, to see it click [here](https://github.com/EliaFantini/).
+This repository contains the code used to create my personal portfolio website, to see it click [here](https://eliafantini.github.io/Portfolio/).
 
 The code is a mix of many parts taken from free website templates from the web and many personal additions and modifications.
 
@@ -26,7 +26,7 @@ To locally host the website and see the changes done, you can use the VS Code's 
 
 ## 🛠 Skills
 
-HTML, CSS, Javascript. Web development and design,color design.
+HTML, CSS, Javascript. Web development and design, color design.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eliafantini.github.io/Portfolio/))
