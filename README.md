@@ -26,7 +26,7 @@ To locally host the website and see the changes done, you can use the VS Code's 
 
 ## 🛠 Skills
 
-HTML, CSS, Javascript. Web development and design, color design.
+HTML, CSS, Javascript. Web development and design,color design.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eliafantini.github.io/Portfolio/))
