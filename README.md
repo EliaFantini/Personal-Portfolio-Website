@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="PortfolioWebsite" src="">
+  <img alt="PortfolioWebsite" src="https://user-images.githubusercontent.com/62103572/192148891-353a284c-a735-4e37-8e99-583415249d79.png">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliaFantini/Personal-Portfolio-Website">
   <img alt="GitHub code size" src="https://img.shields.io/github/languages/code-size/EliaFantini/Personal-Portfolio-Website">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EliaFantini/Personal-Portfolio-Website">
@@ -9,7 +9,7 @@
   <img alt="GitHub star" src="https://img.shields.io/github/stars/EliaFantini/Personal-Portfolio-Website?style=social">
 </p>
 
-This repository contains the code used to create my personal portfolio website, to see it click [here](https://github.com/EliaFantini/)
+This repository contains the code used to create my personal portfolio website, to see it click [here](https://github.com/EliaFantini/).
 
 The code is a mix of many parts taken from free website templates from the web and many personal additions and modifications.
 
