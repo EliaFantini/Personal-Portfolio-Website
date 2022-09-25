@@ -1,12 +1,12 @@
 <p align="center">
   <img alt="PortfolioWebsite" src="https://user-images.githubusercontent.com/62103572/192148891-353a284c-a735-4e37-8e99-583415249d79.png">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliaFantini/Personal-Portfolio-Website">
-  <img alt="GitHub code size" src="https://img.shields.io/github/languages/code-size/EliaFantini/Personal-Portfolio-Website">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EliaFantini/Personal-Portfolio-Website">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliaFantini/Portfolio">
+  <img alt="GitHub code size" src="https://img.shields.io/github/languages/code-size/EliaFantini/Portfolio">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EliaFantini/Portfolio">
   <img alt="GitHub follow" src="https://img.shields.io/github/followers/EliaFantini?label=Follow">
-  <img alt="GitHub fork" src="https://img.shields.io/github/forks/EliaFantini/Personal-Portfolio-Website?label=Fork">
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/EliaFantini/Personal-Portfolio-Website?label=Watch">
-  <img alt="GitHub star" src="https://img.shields.io/github/stars/EliaFantini/Personal-Portfolio-Website?style=social">
+  <img alt="GitHub fork" src="https://img.shields.io/github/forks/EliaFantini/Portfolio?label=Fork">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/EliaFantini/Portfolio?label=Watch">
+  <img alt="GitHub star" src="https://img.shields.io/github/stars/EliaFantini/Portfolio?style=social">
 </p>
 
 This repository contains the code used to create my personal portfolio website, to see it click [here](https://github.com/EliaFantini/).
